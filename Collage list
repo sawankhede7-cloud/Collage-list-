@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>MBA Fees 2026-27 | College Dhundo Indore</title>
+<meta name="description" content="Complete MBA fees guide for all Indore colleges 2026-27. OBC, SC/ST and General category fees."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --navy:#0D1B3E;--navy2:#162554;--gold:#E8A020;
+  --cream:#F4F7FC;--white:#fff;--text:#1A1A2E;--muted:#64748B;--border:#E2E8F0;
+  --s-bg:#D1FAE5;--s-fg:#065F46;--p-bg:#DBEAFE;--p-fg:#1E40AF;
+  --h-bg:#FEE2E2;--h-fg:#991B1B;--m-bg:#FEF9C3;--m-fg:#854D0E;
+  --sh:0 2px 16px rgba(13,27,62,.08);--sh2:0 8px 40px rgba(13,27,62,.13);
+}
+html{scroll-behavior:smooth}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:var(--cream);color:var(--text);-webkit-font-smoothing:antialiased}
+
+.call-btn{position:fixed;bottom:20px;right:20px;z-index:999;background:#25D366;color:#fff;border-radius:50px;padding:12px 18px;font-size:14px;font-weight:700;text-decoration:none;display:flex;align-items:center;gap:7px;box-shadow:0 4px 20px rgba(37,211,102,.5);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 4px 20px rgba(37,211,102,.5)}50%{box-shadow:0 4px 28px rgba(37,211,102,.8)}}
+
+/* HERO */
+.hero{background:linear-gradient(140deg,var(--navy) 0%,#1e3a8a 60%,#0d2257 100%);position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.05) 1px,transparent 1px);background-size:24px 24px}
+.hi{position:relative;z-index:2;max-width:860px;margin:0 auto;padding:44px 20px 36px;text-align:center}
+.htag{display:inline-block;background:rgba(232,160,32,.2);border:1px solid rgba(232,160,32,.4);color:var(--gold);font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;padding:4px 14px;border-radius:20px;margin-bottom:16px}
+.hi h1{font-family:'Playfair Display',serif;font-size:clamp(28px,7vw,56px);font-weight:900;color:#fff;line-height:1.1}
+.hi h1 em{font-style:normal;background:linear-gradient(90deg,var(--gold),#fde68a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hsub{color:rgba(255,255,255,.6);font-size:13.5px;margin-top:8px}
+.ccts{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:26px}
+.cct{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:12px;padding:13px 20px;text-align:center;flex:1;min-width:190px;max-width:250px}
+.cct .role{font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);margin-bottom:3px}
+.cct .nm{font-size:15px;font-weight:700;color:#fff}
+.cct .ph{font-size:12px;color:rgba(255,255,255,.6);margin-top:2px}
+.adr{display:block;margin-top:14px;font-size:11px;color:rgba(255,255,255,.4)}
+
+/* STATS */
+.stats{background:var(--white);border-bottom:1px solid var(--border);box-shadow:var(--sh)}
+.sr{max-width:860px;margin:0 auto;display:flex;flex-wrap:wrap}
+.si{flex:1;min-width:110px;padding:14px 10px;border-right:1px solid var(--border);text-align:center}
+.si:last-child{border-right:none}
+.sn{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:var(--navy)}
+.sn b{color:var(--gold)}
+.sl{font-size:10px;font-weight:600;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);margin-top:2px}
+
+/* MAIN */
+.main{max-width:860px;margin:0 auto;padding:22px 14px 60px}
+
+/* TOOLBAR */
+.tb{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}
+.sw{position:relative;flex:1;min-width:160px}
+.sw svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);width:15px;height:15px;stroke:var(--muted);fill:none;stroke-width:2.2}
+.sw input{width:100%;background:var(--white);border:2px solid var(--border);border-radius:10px;padding:11px 12px 11px 36px;font-family:'Plus Jakarta Sans',sans-serif;font-size:14px;color:var(--text);outline:none;transition:border-color .2s;box-shadow:var(--sh)}
+.sw input:focus{border-color:var(--navy)}
+.sw input::placeholder{color:var(--muted)}
+.chip{background:var(--navy);color:#fff;border-radius:8px;padding:10px 14px;font-size:13px;font-weight:600;white-space:nowrap}
+.chip b{color:var(--gold)}
+
+/* LEGEND */
+.leg-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
+.lg{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--muted);font-weight:500}
+.ld{width:9px;height:9px;border-radius:3px;flex-shrink:0}
+
+/* BADGES */
+.badge{display:inline-block;padding:3px 8px;border-radius:6px;font-size:11.5px;font-weight:600;white-space:nowrap}
+.bs{background:var(--s-bg);color:var(--s-fg)}
+.bp{background:var(--p-bg);color:var(--p-fg)}
+.bh{background:var(--h-bg);color:var(--h-fg)}
+.bm{background:var(--m-bg);color:var(--m-fg)}
+.bus{display:inline-block;padding:2px 7px;border-radius:5px;font-size:11px;font-weight:500;background:#F1F5F9;color:var(--muted)}
+.busf{background:var(--s-bg);color:var(--s-fg)}
+
+/* ── DESKTOP TABLE ── */
+.dtbl{background:var(--white);border-radius:14px;border:1px solid var(--border);overflow:hidden;box-shadow:var(--sh2)}
+.dtbl table{width:100%;border-collapse:collapse;font-size:13px}
+thead tr{background:linear-gradient(90deg,var(--navy),var(--navy2))}
+thead th{padding:12px 9px;font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:rgba(255,255,255,.7);text-align:left;white-space:nowrap;border-bottom:2px solid var(--gold)}
+thead th:first-child{padding-left:14px;width:34px;text-align:center}
+tbody tr{border-bottom:1px solid #EEF2F8;transition:background .1s}
+tbody tr:last-child{border-bottom:none}
+tbody tr:nth-child(even){background:#F8FAFF}
+tbody tr:hover{background:#EFF4FF}
+tbody tr.h{display:none}
+tbody td{padding:10px 9px;vertical-align:middle}
+tbody td:first-child{padding-left:14px;text-align:center;font-size:11px;font-weight:700;color:var(--muted)}
+.cn{font-weight:600;color:var(--navy);font-size:13px}
+.rf{font-weight:700;font-size:12px;text-align:center}
+
+/* ── MOBILE CARDS ── */
+.mcards{display:none}
+.mc{background:var(--white);border-radius:14px;border:1px solid var(--border);margin-bottom:11px;overflow:hidden;box-shadow:var(--sh)}
+.mc.h{display:none}
+.mch{background:linear-gradient(90deg,var(--navy),var(--navy2));padding:12px 16px;display:flex;align-items:center;gap:10px}
+.mcn{background:rgba(232,160,32,.25);color:var(--gold);border-radius:6px;padding:2px 8px;font-size:11px;font-weight:800;border:1px solid rgba(232,160,32,.3);flex-shrink:0}
+.mct{font-weight:700;color:#fff;font-size:14px;line-height:1.3}
+.mcb{padding:10px 16px}
+.mr{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:1px solid #F1F5F9}
+.mr:last-child{border-bottom:none}
+.ml{font-size:10.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);flex-shrink:0;width:70px}
+.mv{text-align:right}
+
+.nr{display:none;text-align:center;padding:36px;color:var(--muted)}
+.nr span{font-size:30px;display:block;margin-bottom:8px}
+
+/* FOOTER */
+footer{background:var(--navy);text-align:center;padding:28px 20px;color:rgba(255,255,255,.55);font-size:13px;line-height:1.9}
+footer strong{color:var(--gold)}
+
+@media print{.call-btn,.tb{display:none!important}.mcards{display:none!important}.dtbl{display:block!important;box-shadow:none!important}body{background:#fff!important}}
+
+/* MOBILE: show cards, hide table */
+@media(max-width:660px){
+  .dtbl{display:none}
+  .mcards{display:block}
+  .ccts{flex-direction:column;align-items:stretch}
+  .cct{max-width:100%}
+  .si{min-width:50%}
+  .tb{flex-direction:column;align-items:stretch}
+  .chip{text-align:center}
+}
+</style>
+</head>
+<body>
+
+<a class="call-btn" href="tel:9669626663">📞 Call Now</a>
+
+<header class="hero">
+  <div class="hi">
+    <div class="htag">🎓 MBA Admission Guide · Indore</div>
+    <h1>MBA Fees <em>2026–27</em></h1>
+    <p class="hsub">45 Colleges &nbsp;·&nbsp; OBC / SC-ST / General &nbsp;·&nbsp; Approx. Annual Fees</p>
+    <div class="ccts">
+      <div class="cct">
+        <div class="role">Admissions Counselor</div>
+        <div class="nm">Rahul Sahu Sir</div>
+        <div class="ph">9669626663 · 9165937938</div>
+      </div>
+      <div class="cct">
+        <div class="role">Admissions Counselor</div>
+        <div class="nm">Manish Sahu Sir</div>
+        <div class="ph">9806505441 · 9669669023</div>
+      </div>
+    </div>
+    <span class="adr">📍 College Dhundo 216, Shri Krishna Divine Mall, Marimata Square, Indore</span>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="sr">
+    <div class="si"><div class="sn">4<b>5</b></div><div class="sl">Colleges</div></div>
+    <div class="si"><div class="sn" id="sc">—</div><div class="sl">Full Scholar</div></div>
+    <div class="si"><div class="sn">30<b>K</b></div><div class="sl">Min General</div></div>
+    <div class="si"><div class="sn">Free</div><div class="sl">Bus Options</div></div>
+  </div>
+</div>
+
+<main class="main">
+  <div class="tb">
+    <div class="sw">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="q" placeholder="College name search karo…" oninput="filt()" autocomplete="off"/>
+    </div>
+    <div class="chip">Showing <b id="vc">45</b> colleges</div>
+  </div>
+
+  <div class="leg-row">
+    <div class="lg"><div class="ld" style="background:#D1FAE5"></div>Full Scholar</div>
+    <div class="lg"><div class="ld" style="background:#DBEAFE"></div>Paid (Low)</div>
+    <div class="lg"><div class="ld" style="background:#FEE2E2"></div>Paid (1L+)</div>
+    <div class="lg"><div class="ld" style="background:#FEF9C3"></div>Scholar+Diff</div>
+    <div class="lg" style="margin-left:auto;font-style:italic">*Approx. annual fees</div>
+  </div>
+
+  <!-- Desktop Table -->
+  <div class="dtbl">
+    <table>
+      <thead><tr>
+        <th>#</th><th>College Name</th>
+        <th style="text-align:center">Reg.Fee</th>
+        <th>OBC</th><th>SC/ST</th><th>General</th><th>Bus</th>
+      </tr></thead>
+      <tbody id="dtb"></tbody>
+    </table>
+    <div class="nr" id="dnr"><span>🔍</span>Koi college nahi mila</div>
+  </div>
+
+  <!-- Mobile Cards -->
+  <div class="mcards" id="mcd"></div>
+  <div class="nr" id="mnr"><span>🔍</span>Koi college nahi mila</div>
+</main>
+
+<footer>
+  <strong>📞 Free Admissions Guidance — Call Now</strong><br>
+  <strong>9669626663</strong> &nbsp;|&nbsp; <strong>9806505441</strong><br>
+  College Dhundo 216, Shri Krishna Divine Mall, Marimata Square, Indore<br>
+  <span style="font-size:11px;opacity:.45">Fees are approximate. Verify with college directly.</span>
+</footer>
+
+<script>
+const D=[
+  {n:"Chamelidevi College",   r:"3,600",    o:"65,000",       s:"65,000",       g:"65,000",   b:"Free"},
+  {n:"Shivajirao Kadam",      r:"2,000",    o:"60,000",       s:"60,000",       g:"60,000",   b:"Free"},
+  {n:"IMI College",           r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional-10K"},
+  {n:"Astral College",        r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional-10K"},
+  {n:"Shree College",         r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"N/A"},
+  {n:"IIST College",          r:"1,550",    o:"1,20,000",     s:"1,20,000",     g:"1,20,000", b:"Optional"},
+  {n:"Maharshi College",      r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"N/A"},
+  {n:"Indore International",  r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional-10K"},
+  {n:"Oxford College",        r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional"},
+  {n:"Sage University",       r:"1,800",    o:"Scholar+Diff", s:"Scholar+Diff", g:"1,10,000", b:"18,000"},
+  {n:"Renaissance University",r:"350",      o:"1,00,000",     s:"15K+Scholar",  g:"1,00,000", b:"15,000"},
+  {n:"Avantika University",   r:"1,600",    o:"2,80,000",     s:"2,80,000",     g:"2,80,000", b:"Free"},
+  {n:"Parul University",      r:"2,000",    o:"2,25,000",     s:"2,25,000",     g:"2,25,000", b:"Optional"},
+  {n:"Oriental University",   r:"2,500",    o:"5K+Scholar",   s:"Full Scholar", g:"45,000",   b:"Optional"},
+  {n:"Vikrant University",    r:"2,000",    o:"Scholar+Diff", s:"Full Scholar", g:"40,000",   b:"Optional-12K"},
+  {n:"BM College",            r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"N/A"},
+  {n:"ISBA College",          r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"40,000",   b:"20K Optional"},
+  {n:"GSB College",           r:"2,000",    o:"1,06,000",     s:"1,06,000",     g:"1,06,000", b:"Optional"},
+  {n:"GSIMR College",         r:"1,000",    o:"73,500",       s:"73,500",       g:"73,500",   b:"Optional"},
+  {n:"Arihant College",       r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"40,000",   b:"N/A"},
+  {n:"Mathuradevi College",   r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"N/A"},
+  {n:"Idylic College",        r:"1500+9900",o:"1,00,000",     s:"1,00,000",     g:"1,00,000", b:"15,000"},
+  {n:"MIT College",           r:"2,000",    o:"40,000",       s:"40,000",       g:"40,000",   b:"Optional-10K"},
+  {n:"LNCT College",          r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"N/A"},
+  {n:"Aurvindo College",      r:"2,000",    o:"45,000",       s:"45,000",       g:"45,000",   b:"N/A"},
+  {n:"Indore Mahavidhyalye",  r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional-10K"},
+  {n:"Jain Diwakar College",  r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"40,000",   b:"Optional"},
+  {n:"IPS College Sanwer",    r:"2,000",    o:"85,000",       s:"85,000",       g:"85,000",   b:"Optional"},
+  {n:"Artimisia College",     r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Gurukul College",       r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"N/A"},
+  {n:"Asian College",         r:"16,000",   o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Sanghvi College",       r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Aisect College",        r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional"},
+  {n:"Vikrant College",       r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional"},
+  {n:"Softvision College",    r:"1,600",    o:"1,17,500",     s:"1,17,500",     g:"1,17,500", b:"20K Optional"},
+  {n:"Madhuban College",      r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"35,000",   b:"Optional"},
+  {n:"Lal Bahadur Shastri",   r:"2,000",    o:"35,000",       s:"35,000",       g:"35,000",   b:"N/A"},
+  {n:"Kewal Shree College",   r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"N/A"},
+  {n:"KK College",            r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Patel College",         r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Parijaat College",      r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Vishisht College",      r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"40,000",   b:"Optional"},
+  {n:"Swami Vivekananda",     r:"2,000",    o:"Full Scholar", s:"Full Scholar", g:"40,000",   b:"Optional"},
+  {n:"Indra College",         r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+  {n:"Apex College",          r:"1,600",    o:"Full Scholar", s:"Full Scholar", g:"30,000",   b:"Optional"},
+];
+
+function bdg(v){
+  const l=v.toLowerCase();
+  if(l.includes('full scholar'))return`<span class="badge bs">${v}</span>`;
+  if(l.includes('scholar+diff')||l.includes('k+scholar'))return`<span class="badge bm">${v}</span>`;
+  const n=parseInt(v.replace(/[^\d]/g,'')||'0');
+  if(n>=100000)return`<span class="badge bh">${v}</span>`;
+  if(n>0)return`<span class="badge bp">${v}</span>`;
+  return`<span class="badge bp">${v}</span>`;
+}
+function bpill(v){
+  const l=v.toLowerCase();
+  if(l==='free')return`<span class="bus busf">Free 🚌</span>`;
+  if(l==='n/a')return`<span style="color:#CBD5E0">—</span>`;
+  return`<span class="bus">${v}</span>`;
+}
+
+const dtb=document.getElementById('dtb');
+const mcd=document.getElementById('mcd');
+let scCount=0;
+
+D.forEach((d,i)=>{
+  const lo=d.n.toLowerCase();
+  if(d.o.toLowerCase().includes('full scholar'))scCount++;
+
+  // Desktop row
+  const tr=document.createElement('tr');
+  tr.dataset.n=lo;
+  tr.innerHTML=`
+    <td>${i+1}</td>
+    <td class="cn">${d.n}</td>
+    <td class="rf">₹${d.r}</td>
+    <td>${bdg(d.o)}</td>
+    <td>${bdg(d.s)}</td>
+    <td>${bdg(d.g)}</td>
+    <td>${bpill(d.b)}</td>`;
+  dtb.appendChild(tr);
+
+  // Mobile card
+  const mc=document.createElement('div');
+  mc.className='mc';mc.dataset.n=lo;
+  mc.innerHTML=`
+    <div class="mch">
+      <span class="mcn">${i+1}</span>
+      <span class="mct">${d.n}</span>
+    </div>
+    <div class="mcb">
+      <div class="mr"><span class="ml">Reg. Fee</span><span class="mv"><strong>₹${d.r}</strong></span></div>
+      <div class="mr"><span class="ml">OBC</span><span class="mv">${bdg(d.o)}</span></div>
+      <div class="mr"><span class="ml">SC / ST</span><span class="mv">${bdg(d.s)}</span></div>
+      <div class="mr"><span class="ml">General</span><span class="mv">${bdg(d.g)}</span></div>
+      <div class="mr"><span class="ml">Bus</span><span class="mv">${bpill(d.b)}</span></div>
+    </div>`;
+  mcd.appendChild(mc);
+});
+
+document.getElementById('sc').innerHTML=scCount+'<b>+</b>';
+
+function filt(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  let dv=0,mv=0;
+  dtb.querySelectorAll('tr').forEach(r=>{
+    const m=r.dataset.n.includes(q);
+    r.classList.toggle('h',!m);
+    if(m)dv++;
+  });
+  mcd.querySelectorAll('.mc').forEach(c=>{
+    const m=c.dataset.n.includes(q);
+    c.classList.toggle('h',!m);
+    if(m)mv++;
+  });
+  document.getElementById('vc').textContent=dv;
+  document.getElementById('dnr').style.display=dv?'none':'block';
+  document.getElementById('mnr').style.display=mv?'none':'block';
+}
+</script>
+</body>
+</html>
+
